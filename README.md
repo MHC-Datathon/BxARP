@@ -1,6 +1,11 @@
 # BxARP
 
 Hello,
+We are BxARP
+Ana Leonardo - Lehman College
+Rosangel Ledesma - Lehman College
+Preston Blake - Lehman College
+
 This is the link to our YouTube video:
 https://youtu.be/pNSsDy--9UI
 
